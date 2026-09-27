@@ -21,7 +21,7 @@
 You can install the manager with a single command! Just open your terminal and run:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/StarchDEV/starship-preset-manager/main/install.sh](https://raw.githubusercontent.com/StarchDEV/starship-preset-manager/main/install.sh) | sh
+curl -fsSL https://raw.githubusercontent.com/StarchDEV/starship-preset-manager/main/install.sh | sh
 ```
 Once installed, simply run:
 
